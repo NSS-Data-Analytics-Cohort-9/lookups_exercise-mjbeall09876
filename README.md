@@ -21,6 +21,12 @@ Challenge Questions (Save for last):
 
 7. Modify your formulas from questions 3-5 using MATCH so that you can pull the formula both down and sideways to fill in the entire table.
 
+VLOOKUP FOR VERTICAL, MATCH FOR HORIZONTAL, NEST MATCH WITHIN VLOOKUP
+VLOOKUP(VALUE, ARRAY,MATCH(LOOKUP VALUE, LOOKUP ARRAY, MATCH TYPE))
+WATCH YOUR ABSOLUTE AND RELATIVE VALUES TO FREE UP COLUMN OR ROW TO SHIFT STRATEGICALLY
+
 8. Use XLOOKUP to find, for each financial year, the three highest ranked departments in terms of the percentage below budget their actual spending was. Bonus: Combine XLOOKUP with INDEX and MATCH in order to write two formulas that can be copied and pasted to fill in the table.
 
-9. Do the same as above, but using only INDEX and MATCH.
+use xlookup, index, match
+
+9. Do the same as above, but using only INDEX and MATCH. Index, match, match.
